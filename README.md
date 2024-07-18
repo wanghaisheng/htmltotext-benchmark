@@ -2,6 +2,12 @@
 
 The goal of this repository is to provide a dataset of html-to-text extractions performed by hand across as many languages as possible, along with a benchmarking script to be able to provide a quantitative measure of text extraction quality by major html-to-text converters. 
 
+https://github.com/opendatalab/magic-html/tree/main
+
+https://github.com/adbar/trafilatura
+
+
+
 # Motivation
 
 There are a ton of different html-to-text libraries floating around, but there are only a handful of tests comparing them, none of which look at a wide array of languages. The goal of this repository is to be able to provide a common benchmark for all these libraries. 
